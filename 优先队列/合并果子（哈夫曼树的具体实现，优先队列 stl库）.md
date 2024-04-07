@@ -16,7 +16,8 @@ priority_queue<int, vector<int>, less<int> >q;//大顶堆
 using namespace std;
 
 const int N = 2e5+10;
-priority_queue<int, vector<int>, greater<int> >q;
+priority_queue<int, vector<int>, greater<int> >q;
+
 int main()
 {	
 	int n,x;
